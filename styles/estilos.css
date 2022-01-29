@@ -307,6 +307,10 @@ footer h2 {
     height: auto;
   }
 
+  .tres_bis h2 {
+    text-align: center;
+  }
+  
   .card {
     width: 80%;
     margin-top: 20px;
